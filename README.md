@@ -1,4 +1,6 @@
 # Avaliador Premiado
+Aplicação desenvolvida para um cliente, gestor de tráfego pago. 
+Todo o design foi enviado pelo solicitante, o site foi desenvolvido pensando apenas em dispositivos móveis.
 
 ## Descrição
 O Avaliador Premiado é um site que apresenta um sistema de avaliação, no qual os usuários têm a oportunidade de receber recompensas por avaliar produtos de empresas conveniadas. Desenvolvido com HTML, CSS e JavaScript, o site oferece uma plataforma para que os usuários avaliem produtos e sejam recompensados por sua participação.
