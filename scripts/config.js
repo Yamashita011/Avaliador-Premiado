@@ -1,6 +1,6 @@
 let initialBalance = 20
 const linkCheckout = {
-    checkout: `http://instagram.com/daanrox`,
+    checkout: `https://mpago.la/1G84Rmo`,
     newWindow: false,
 }
 
